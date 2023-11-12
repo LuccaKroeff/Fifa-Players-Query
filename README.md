@@ -1,2 +1,2 @@
 # Fifa-Players-Query
-Repositório do trabalho Final da disciplina de Classificação e Pesquisa de Dados
+Implementação de diversos sistemas de pesquisas sobre uma grande quantidade de dados, no caso os jogadores presentes no jogo FIFA 21
